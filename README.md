@@ -149,6 +149,19 @@ OR
 - [ ] **Authentication and Authorization**
 - [ ] **API & Documentation**
 
+<!-- FRONT-END REPOSITORY -->
+## 💻 Front-end Repository <a name="frontend-repo"></a>
+
+- [Click Here](https://github.com/Strangeal/hello-react-front-end)
+
+- Clone this repository to your desired folder:
+
+- Example command:
+
+  ```
+    git clone git@github.com:Strangeal/hello-react-front-end.git
+    cd hello-react-front-end
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
