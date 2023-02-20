@@ -88,11 +88,11 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-`git clone git@github.com:Strangeal/hello-rails-react.git`
+`git clone git@github.com:Strangeal/hello-rails-back-end.git`
 
 then
 
-`cd hello-rails-react`
+`cd hello-rails-back-end`
 
 ### Install
 
@@ -148,6 +148,8 @@ OR
 
 - [ ] **Authentication and Authorization**
 - [ ] **API & Documentation**
+
+### Api-Endpoint-Testing
 
 <!-- FRONT-END REPOSITORY -->
 ## 💻 Front-end Repository <a name="frontend-repo"></a>
