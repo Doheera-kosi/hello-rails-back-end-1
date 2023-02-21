@@ -5,3 +5,9 @@
 #
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)
+
+Message.create(message: "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.")
+Message.create(message: "First, solve the problem. Then, write the code.")
+Message.create(message: "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.")
+Message.create(message: "Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.")
+Message.create(message: "Optimism is an occupational hazard of programming: feedback is the treatment. ")
